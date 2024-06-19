@@ -1,0 +1,22 @@
+{
+  "disputes": [
+    {
+      "id": "42bf",
+      "email": "agiriTaofeekO@gmail.com",
+      "dispute": "Please try to resolve my issues ",
+      "transactionID": "1234"
+    },
+    {
+      "id": "a116",
+      "email": "admin@natours.io",
+      "dispute": "mjavdjkhgefk",
+      "transactionID": "1234"
+    },
+    {
+      "id": "0d83",
+      "email": "admin@natours.io",
+      "dispute": "Test",
+      "transactionID": "1234"
+    }
+  ]
+}
